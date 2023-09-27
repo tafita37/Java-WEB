@@ -21,7 +21,7 @@ import java.util.List;
 
                 ServletContext context = this.getServletContext();
                 context.setAttribute("dolist",dolist);
-                out.println("Vous etes dans AddServelet");
+                out.println("Vous etes dans AddServelet apres modif");
                 
                     
 
